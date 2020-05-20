@@ -21,8 +21,8 @@ Then, go to [http://localhost:8080/simple-hello/hello](http://localhost:8080/sim
 
 * [Your First Cup: An Introduction to the Jakarta EE Platform](https://eclipse-ee4j.github.io/jakartaee-firstcup/)
 
-* [The Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/)
-
 * [First Cup Examples](https://github.com/eclipse-ee4j/jakartaee-firstcup-examples)
+
+* [The Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/)
 
 * [Jakarta EE Tutorial Examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples)
