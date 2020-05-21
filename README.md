@@ -25,6 +25,6 @@ http://localhost:8080/simple-hello/hello
 
 Your first stop needs to be [Your First Cup: An Introduction to the Jakarta EE Platform](https://eclipse-ee4j.github.io/jakartaee-firstcup/).
 
-You can further explore [First Cup Examples](https://github.com/eclipse-ee4j/jakartaee-firstcup-examples).
+You can explore further [First Cup Examples](https://github.com/eclipse-ee4j/jakartaee-firstcup-examples).
 
 And then look into [The Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/) and [Jakarta EE Tutorial Examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples).
